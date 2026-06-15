@@ -20,7 +20,7 @@ StyleMap: 0x0021
 FSType: 0
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
+OS2_UseTypoMetrics: 1
 CreationTime: 1245315732
 ModificationTime: 1781540695
 PfmFamily: 17
@@ -29,18 +29,18 @@ TTFWidth: 5
 LineGap: 200
 VLineGap: 0
 Panose: 2 0 8 9 0 0 0 0 0 0
-OS2TypoAscent: 775
+OS2TypoAscent: 800
 OS2TypoAOffset: 0
-OS2TypoDescent: -225
+OS2TypoDescent: -200
 OS2TypoDOffset: 0
-OS2TypoLinegap: 200
-OS2WinAscent: 866
+OS2TypoLinegap: 0
+OS2WinAscent: 800
 OS2WinAOffset: 0
-OS2WinDescent: 230
+OS2WinDescent: 200
 OS2WinDOffset: 0
-HheadAscent: 866
+HheadAscent: 800
 HheadAOffset: 0
-HheadDescent: -230
+HheadDescent: -200
 HheadDOffset: 0
 OS2SubXSize: 650
 OS2SubYSize: 700
