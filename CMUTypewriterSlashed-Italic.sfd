@@ -2,7 +2,7 @@ SplineFontDB: 3.2
 FontName: CMUTypewriterSlashed-Italic
 FullName: CMU Typewriter Slashed Italic
 FamilyName: CMU Typewriter Slashed
-Weight: Medium
+Weight: Regular
 Copyright: Converted by Andrey V. Panov from TeX fonts
 Version: 0.7.0
 ItalicAngle: -14.04
@@ -24,7 +24,7 @@ OS2_UseTypoMetrics: 1
 CreationTime: 1245313519
 ModificationTime: 1781539794
 PfmFamily: 17
-TTFWeight: 500
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 200
 VLineGap: 0

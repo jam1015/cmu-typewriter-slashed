@@ -2,7 +2,7 @@ SplineFontDB: 3.2
 FontName: CMUTypewriterSlashed-Regular
 FullName: CMU Typewriter Slashed Regular
 FamilyName: CMU Typewriter Slashed
-Weight: Medium
+Weight: Regular
 Copyright: Converted by Andrey V. Panov from TeX fonts. Some glyphs are copied from Blue Sky fonts released by AMS.
 Version: 0.7.0
 ItalicAngle: 0
@@ -24,7 +24,7 @@ OS2_UseTypoMetrics: 1
 CreationTime: 1245312771
 ModificationTime: 1781539702
 PfmFamily: 17
-TTFWeight: 500
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 200
 VLineGap: 0
