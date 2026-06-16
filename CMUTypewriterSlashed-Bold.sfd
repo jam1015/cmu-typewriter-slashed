@@ -759,7 +759,7 @@ ShortTable: maxp 16
   5
 EndShort
 LangName: 1033 "" "" "" "CMU Typewriter Slashed Bold 1.0" "" "Version 0.7.0" "" "" "" "" "" "" "http://cm-unicode.sourceforge.net/" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied together with this font package in OFL.txt,+AAoA-and is also available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
-Encoding: UnicodeFull
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -3418,7 +3418,7 @@ StartChar: slash
 Encoding: 47 47 18
 Width: 525
 GlyphClass: 2
-Flags: WO
+Flags: W
 TtInstrs:
 SVTCA[y-axis]
 SVTCA[x-axis]
@@ -64235,7 +64235,7 @@ AnchorPoint: "Anchor-5" 255 450 mark 0
 AnchorPoint: "Anchor-0" 255 450 mark 0
 LayerCount: 2
 Fore
-Refer: 1439 62083 N 1 0 0 1 0 0 3
+Refer: 1439 -1 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni030A
@@ -64290,7 +64290,7 @@ AnchorPoint: "Anchor-0" 157 621 basemark 0
 AnchorPoint: "Anchor-0" 279 450 mark 0
 LayerCount: 2
 Fore
-Refer: 1479 63190 N 1 0 0 1 0 0 3
+Refer: 1479 -1 N 1 0 0 1 0 0 3
 Substitution2: "'case' Case-Sensitive Forms lookup 0 subtable" uni030F.cap
 EndChar
 
@@ -138885,7 +138885,7 @@ AnchorPoint: "Anchor-5" 261 849 basechar 0
 AnchorPoint: "Anchor-4" 264 0 basechar 0
 LayerCount: 2
 Fore
-Refer: 1329 61429 N 1 0 0 1 -1 0 2
+Refer: 1329 -1 N 1 0 0 1 -1 0 2
 Refer: 57 86 N 1 0 0 1 0 0 3
 EndChar
 
@@ -155228,7 +155228,7 @@ AnchorPoint: "Anchor-5" 262 619 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 73 N 1 0 0 1 0 0 3
-Refer: 1438 62082 N 1 0 0 1 0 -162 2
+Refer: 1438 -1 N 1 0 0 1 0 -162 2
 EndChar
 
 StartChar: uni1ECB
@@ -155420,7 +155420,7 @@ Flags: W
 AnchorPoint: "Anchor-5" 261 619 basechar 0
 LayerCount: 2
 Fore
-Refer: 1438 62082 N 1 0 0 1 0 -162 2
+Refer: 1438 -1 N 1 0 0 1 0 -162 2
 Refer: 50 79 N 1 0 0 1 0 0 3
 EndChar
 
@@ -155433,7 +155433,7 @@ AnchorPoint: "Anchor-5" 262 450 basechar 0
 LayerCount: 2
 Fore
 Refer: 82 111 N 1 0 0 1 0 0 3
-Refer: 1438 62082 N 1 0 0 1 0 -162 2
+Refer: 1438 -1 N 1 0 0 1 0 -162 2
 EndChar
 
 StartChar: uni1ECE
@@ -161082,7 +161082,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 305 416 N 1 0 0 1 0 0 3
-Refer: 1438 62082 N 1 0 0 1 0 -162 2
+Refer: 1438 -1 N 1 0 0 1 0 -162 2
 EndChar
 
 StartChar: uni1EE3
@@ -165607,7 +165607,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1438 62082 N 1 0 0 1 0 -162 2
+Refer: 1438 -1 N 1 0 0 1 0 -162 2
 Refer: 60 89 N 1 0 0 1 0 0 3
 EndChar
 
@@ -165618,7 +165618,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1438 62082 N 1 0 0 1 80 -221 2
+Refer: 1438 -1 N 1 0 0 1 80 -221 2
 Refer: 92 121 N 1 0 0 1 0 0 3
 EndChar
 
@@ -179502,7 +179502,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1382 61753 N 1 0 0 1 33 22 2
+Refer: 1382 -1 N 1 0 0 1 33 22 2
 Refer: 510 945 N 1 0 0 1 0 0 3
 EndChar
 
@@ -179513,7 +179513,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1383 61754 N 1 0 0 1 32 -58 2
+Refer: 1383 -1 N 1 0 0 1 32 -58 2
 Refer: 510 945 N 1 0 0 1 0 0 3
 EndChar
 
@@ -180609,7 +180609,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1382 61753 N 1 0 0 1 0 219 2
+Refer: 1382 -1 N 1 0 0 1 0 219 2
 Refer: 479 913 N 1 0 0 1 0 0 3
 EndChar
 
@@ -180620,7 +180620,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1383 61754 N 1 0 0 1 -1 139 2
+Refer: 1383 -1 N 1 0 0 1 -1 139 2
 Refer: 479 913 N 1 0 0 1 0 0 3
 EndChar
 
@@ -182595,7 +182595,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1382 61753 N 1 0 0 1 -70 22 2
+Refer: 1382 -1 N 1 0 0 1 -70 22 2
 Refer: 518 953 N 1 0 0 1 0 0 3
 EndChar
 
@@ -182606,7 +182606,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1383 61754 N 1 0 0 1 -71 -58 2
+Refer: 1383 -1 N 1 0 0 1 -71 -58 2
 Refer: 518 953 N 1 0 0 1 0 0 3
 EndChar
 
@@ -183554,7 +183554,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1382 61753 N 1 0 0 1 0 211 2
+Refer: 1382 -1 N 1 0 0 1 0 211 2
 Refer: 487 921 N 1 0 0 1 0 0 3
 EndChar
 
@@ -183565,7 +183565,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1383 61754 N 1 0 0 1 -1 131 2
+Refer: 1383 -1 N 1 0 0 1 -1 131 2
 Refer: 487 921 N 1 0 0 1 0 0 3
 EndChar
 
@@ -183928,7 +183928,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1382 61753 N 1 0 0 1 0 24 2
+Refer: 1382 -1 N 1 0 0 1 0 24 2
 Refer: 530 965 N 1 0 0 1 0 0 3
 EndChar
 
@@ -183939,7 +183939,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1383 61754 N 1 0 0 1 -1 -56 2
+Refer: 1383 -1 N 1 0 0 1 -1 -56 2
 Refer: 530 965 N 1 0 0 1 0 0 3
 EndChar
 
@@ -184964,7 +184964,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1382 61753 N 1 0 0 1 0 219 2
+Refer: 1382 -1 N 1 0 0 1 0 219 2
 Refer: 498 933 N 1 0 0 1 0 0 3
 EndChar
 
@@ -184975,7 +184975,7 @@ GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1383 61754 N 1 0 0 1 -1 139 2
+Refer: 1383 -1 N 1 0 0 1 -1 139 2
 Refer: 498 933 N 1 0 0 1 0 0 3
 EndChar
 
@@ -204548,7 +204548,7 @@ EndSplineSet
 EndChar
 
 StartChar: tilde.cap
-Encoding: 61429 61429 1329
+Encoding: 61429 -1 1329
 Width: 525
 GlyphClass: 4
 Flags: W
@@ -204559,7 +204559,7 @@ Refer: 1511 -1 N 1 0 0 1 0 167 2
 EndChar
 
 StartChar: guillemotleft.lat
-Encoding: 61696 61696 1330
+Encoding: 61696 -1 1330
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -204569,7 +204569,7 @@ Refer: 109 171 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: guillemotright.lat
-Encoding: 61697 61697 1331
+Encoding: 61697 -1 1331
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -204579,7 +204579,7 @@ Refer: 125 187 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: perthousandzero
-Encoding: 61698 61698 1332
+Encoding: 61698 -1 1332
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -204589,7 +204589,7 @@ Refer: 1241 8320 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Germandbls
-Encoding: 61699 61699 1333
+Encoding: 61699 -1 1333
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -204942,17 +204942,17 @@ EndSplineSet
 EndChar
 
 StartChar: twelveudash
-Encoding: 61700 61700 1334
+Encoding: 61700 -1 1334
 Width: 525
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
-Refer: 1480 63198 N 1 0 0 1 0 0 3
+Refer: 1480 -1 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0361.alt
-Encoding: 61701 61701 1335
+Encoding: 61701 -1 1335
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -205026,7 +205026,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2040.alt
-Encoding: 61702 61702 1336
+Encoding: 61702 -1 1336
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -205108,7 +205108,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave.ts1
-Encoding: 61703 61703 1337
+Encoding: 61703 -1 1337
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -205184,7 +205184,7 @@ EndSplineSet
 EndChar
 
 StartChar: leaf
-Encoding: 61704 61704 1338
+Encoding: 61704 -1 1338
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -205586,7 +205586,7 @@ EndSplineSet
 EndChar
 
 StartChar: tildelow
-Encoding: 61705 61705 1339
+Encoding: 61705 -1 1339
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -205667,7 +205667,7 @@ EndSplineSet
 EndChar
 
 StartChar: hyphendbl
-Encoding: 61706 61706 1340
+Encoding: 61706 -1 1340
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -205677,7 +205677,7 @@ Refer: 1498 65126 N 1 0 0 1 0 86 2
 EndChar
 
 StartChar: breve.ts1
-Encoding: 61707 61707 1341
+Encoding: 61707 -1 1341
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -205760,7 +205760,7 @@ EndSplineSet
 EndChar
 
 StartChar: caron.ts1
-Encoding: 61708 61708 1342
+Encoding: 61708 -1 1342
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -205835,7 +205835,7 @@ EndSplineSet
 EndChar
 
 StartChar: hungarumlaut.ts1
-Encoding: 61709 61709 1343
+Encoding: 61709 -1 1343
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -205939,7 +205939,7 @@ EndSplineSet
 EndChar
 
 StartChar: dblgrave.ts1
-Encoding: 61710 61710 1344
+Encoding: 61710 -1 1344
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206034,7 +206034,7 @@ EndSplineSet
 EndChar
 
 StartChar: peso
-Encoding: 61711 61711 1345
+Encoding: 61711 -1 1345
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206239,7 +206239,7 @@ EndSplineSet
 EndChar
 
 StartChar: copyleft
-Encoding: 61713 61713 1346
+Encoding: 61713 -1 1346
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206500,7 +206500,7 @@ EndSplineSet
 EndChar
 
 StartChar: acute.ts1
-Encoding: 61714 61714 1347
+Encoding: 61714 -1 1347
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206571,7 +206571,7 @@ EndSplineSet
 EndChar
 
 StartChar: emdash.cyr
-Encoding: 61715 61715 1348
+Encoding: 61715 -1 1348
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206581,7 +206581,7 @@ Refer: 16 45 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: hyphen.alt
-Encoding: 61716 61716 1349
+Encoding: 61716 -1 1349
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206591,7 +206591,7 @@ Refer: 111 173 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: guillemotleft.cyr
-Encoding: 61717 61717 1350
+Encoding: 61717 -1 1350
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206601,7 +206601,7 @@ Refer: 109 171 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: guillemotright.cyr
-Encoding: 61718 61718 1351
+Encoding: 61718 -1 1351
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206611,7 +206611,7 @@ Refer: 125 187 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: strokereversed
-Encoding: 61719 61719 1352
+Encoding: 61719 -1 1352
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206701,7 +206701,7 @@ EndSplineSet
 EndChar
 
 StartChar: CYRDELTA
-Encoding: 61720 61720 1353
+Encoding: 61720 -1 1353
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -206871,7 +206871,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrdelta
-Encoding: 61721 61721 1354
+Encoding: 61721 -1 1354
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -207028,7 +207028,7 @@ EndSplineSet
 EndChar
 
 StartChar: CYRNLHK
-Encoding: 61722 61722 1355
+Encoding: 61722 -1 1355
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -207273,7 +207273,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrnlhk
-Encoding: 61723 61723 1356
+Encoding: 61723 -1 1356
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -207513,7 +207513,7 @@ EndSplineSet
 EndChar
 
 StartChar: CYRLDSC
-Encoding: 61724 61724 1357
+Encoding: 61724 -1 1357
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -207732,7 +207732,7 @@ EndSplineSet
 EndChar
 
 StartChar: CYRMDSC
-Encoding: 61725 61725 1358
+Encoding: 61725 -1 1358
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -208117,7 +208117,7 @@ EndSplineSet
 EndChar
 
 StartChar: CYRRDSC
-Encoding: 61726 61726 1359
+Encoding: 61726 -1 1359
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -208284,7 +208284,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrldsc
-Encoding: 61729 61729 1360
+Encoding: 61729 -1 1360
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -208485,7 +208485,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrmdsc
-Encoding: 61730 61730 1361
+Encoding: 61730 -1 1361
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -208718,7 +208718,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrrdsc
-Encoding: 61731 61731 1362
+Encoding: 61731 -1 1362
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -208920,7 +208920,7 @@ EndSplineSet
 EndChar
 
 StartChar: CYRGDSCHCRS
-Encoding: 61734 61734 1363
+Encoding: 61734 -1 1363
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -209111,7 +209111,7 @@ EndSplineSet
 EndChar
 
 StartChar: CYRSACRS
-Encoding: 61735 61735 1364
+Encoding: 61735 -1 1364
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -209410,7 +209410,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrgdschcrs
-Encoding: 61736 61736 1365
+Encoding: 61736 -1 1365
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -209595,7 +209595,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrsacrs
-Encoding: 61737 61737 1366
+Encoding: 61737 -1 1366
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -209923,7 +209923,7 @@ EndSplineSet
 EndChar
 
 StartChar: CYRMHK
-Encoding: 61738 61738 1367
+Encoding: 61738 -1 1367
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -210283,7 +210283,7 @@ EndSplineSet
 EndChar
 
 StartChar: CYRRHK
-Encoding: 61739 61739 1368
+Encoding: 61739 -1 1368
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -210525,7 +210525,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrmhk
-Encoding: 61740 61740 1369
+Encoding: 61740 -1 1369
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -210735,7 +210735,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrrhk
-Encoding: 61741 61741 1370
+Encoding: 61741 -1 1370
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -210998,7 +210998,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10147.old
-Encoding: 61742 61742 1371
+Encoding: 61742 -1 1371
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211204,7 +211204,7 @@ EndSplineSet
 EndChar
 
 StartChar: varstigma
-Encoding: 61743 61743 1372
+Encoding: 61743 -1 1372
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211488,7 +211488,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1FBC.alt
-Encoding: 61744 61744 1373
+Encoding: 61744 -1 1373
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211499,7 +211499,7 @@ Refer: 479 913 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1FCC.alt
-Encoding: 61745 61745 1374
+Encoding: 61745 -1 1374
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211510,7 +211510,7 @@ Refer: 485 919 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1FFC.alt
-Encoding: 61746 61746 1375
+Encoding: 61746 -1 1375
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211521,7 +211521,7 @@ Refer: 502 937 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Alpharightphantomdiaeresis
-Encoding: 61747 61747 1376
+Encoding: 61747 -1 1376
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211531,7 +211531,7 @@ Refer: 479 913 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Upsilondiaeresisshifted
-Encoding: 61748 61748 1377
+Encoding: 61748 -1 1377
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211541,7 +211541,7 @@ Refer: 504 939 N 1 0 0 1 -100 0 2
 EndChar
 
 StartChar: alpharightphantomdiaeresis
-Encoding: 61749 61749 1378
+Encoding: 61749 -1 1378
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211551,7 +211551,7 @@ Refer: 510 945 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: upsilondiaeresisshifted
-Encoding: 61750 61750 1379
+Encoding: 61750 -1 1379
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211561,7 +211561,7 @@ Refer: 536 971 N 1 0 0 1 -87 0 2
 EndChar
 
 StartChar: nexusleftside
-Encoding: 61751 61751 1380
+Encoding: 61751 -1 1380
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211622,7 +211622,7 @@ EndSplineSet
 EndChar
 
 StartChar: nexusrightside
-Encoding: 61752 61752 1381
+Encoding: 61752 -1 1381
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211702,7 +211702,7 @@ EndSplineSet
 EndChar
 
 StartChar: breve.gr
-Encoding: 61753 61753 1382
+Encoding: 61753 -1 1382
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211799,7 +211799,7 @@ EndSplineSet
 EndChar
 
 StartChar: macron.gr
-Encoding: 61754 61754 1383
+Encoding: 61754 -1 1383
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -211851,7 +211851,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotleft.gr
-Encoding: 61755 61755 1384
+Encoding: 61755 -1 1384
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212075,7 +212075,7 @@ EndSplineSet
 EndChar
 
 StartChar: guillemotright.gr
-Encoding: 61756 61756 1385
+Encoding: 61756 -1 1385
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212537,7 +212537,7 @@ EndSplineSet
 EndChar
 
 StartChar: widebreve
-Encoding: 61757 61757 1386
+Encoding: 61757 -1 1386
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212607,7 +212607,7 @@ EndSplineSet
 EndChar
 
 StartChar: Delta.greek
-Encoding: 61758 61758 1387
+Encoding: 61758 -1 1387
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212617,7 +212617,7 @@ Refer: 482 916 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Omega.greek
-Encoding: 61759 61759 1388
+Encoding: 61759 -1 1388
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212627,7 +212627,7 @@ Refer: 502 937 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: mu.greek
-Encoding: 61760 61760 1389
+Encoding: 61760 -1 1389
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212637,7 +212637,7 @@ Refer: 521 956 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: space_uni0335
-Encoding: 61867 61867 1390
+Encoding: 61867 -1 1390
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212647,7 +212647,7 @@ Refer: 457 821 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: space_uni0337
-Encoding: 61868 61868 1391
+Encoding: 61868 -1 1391
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212657,7 +212657,7 @@ Refer: 458 823 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: space_uni0484
-Encoding: 61873 61873 1392
+Encoding: 61873 -1 1392
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212667,7 +212667,7 @@ Refer: 681 1156 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: space_uni0485
-Encoding: 61874 61874 1393
+Encoding: 61874 -1 1393
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212677,7 +212677,7 @@ Refer: 682 1157 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: space_uni0486
-Encoding: 61875 61875 1394
+Encoding: 61875 -1 1394
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212687,7 +212687,7 @@ Refer: 683 1158 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: space_uni0488
-Encoding: 61876 61876 1395
+Encoding: 61876 -1 1395
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212697,7 +212697,7 @@ Refer: 684 1160 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: space_uni0489
-Encoding: 61877 61877 1396
+Encoding: 61877 -1 1396
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212707,7 +212707,7 @@ Refer: 685 1161 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Euro.old
-Encoding: 62028 62028 1397
+Encoding: 62028 -1 1397
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212967,7 +212967,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis.var
-Encoding: 62029 62029 1398
+Encoding: 62029 -1 1398
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -212977,7 +212977,7 @@ Refer: 106 168 N 1 0 0 1 0 17 2
 EndChar
 
 StartChar: dieresis.ts1
-Encoding: 62030 62030 1399
+Encoding: 62030 -1 1399
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -213062,7 +213062,7 @@ EndSplineSet
 EndChar
 
 StartChar: Dcroat.vn
-Encoding: 62044 62044 1400
+Encoding: 62044 -1 1400
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -213250,7 +213250,7 @@ EndSplineSet
 EndChar
 
 StartChar: dcroat.vn
-Encoding: 62045 62045 1401
+Encoding: 62045 -1 1401
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -213473,7 +213473,7 @@ EndSplineSet
 EndChar
 
 StartChar: Agrave.vn
-Encoding: 62046 62046 1402
+Encoding: 62046 -1 1402
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -213953,7 +213953,7 @@ EndSplineSet
 EndChar
 
 StartChar: Aacute.vn
-Encoding: 62047 62047 1403
+Encoding: 62047 -1 1403
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -214453,7 +214453,7 @@ EndSplineSet
 EndChar
 
 StartChar: Atilde.vn
-Encoding: 62048 62048 1404
+Encoding: 62048 -1 1404
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -214888,7 +214888,7 @@ EndSplineSet
 EndChar
 
 StartChar: Acircumflex.vn
-Encoding: 62049 62049 1405
+Encoding: 62049 -1 1405
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -215302,7 +215302,7 @@ EndSplineSet
 EndChar
 
 StartChar: Abreve.vn
-Encoding: 62050 62050 1406
+Encoding: 62050 -1 1406
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -215747,7 +215747,7 @@ EndSplineSet
 EndChar
 
 StartChar: Egrave.vn
-Encoding: 62051 62051 1407
+Encoding: 62051 -1 1407
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -216114,7 +216114,7 @@ EndSplineSet
 EndChar
 
 StartChar: Eacute.vn
-Encoding: 62052 62052 1408
+Encoding: 62052 -1 1408
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -216513,7 +216513,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ecircumflex.vn
-Encoding: 62053 62053 1409
+Encoding: 62053 -1 1409
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -216815,7 +216815,7 @@ EndSplineSet
 EndChar
 
 StartChar: Igrave.vn
-Encoding: 62054 62054 1410
+Encoding: 62054 -1 1410
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -217060,7 +217060,7 @@ EndSplineSet
 EndChar
 
 StartChar: Iacute.vn
-Encoding: 62055 62055 1411
+Encoding: 62055 -1 1411
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -217310,7 +217310,7 @@ EndSplineSet
 EndChar
 
 StartChar: agrave.vn
-Encoding: 62056 62056 1412
+Encoding: 62056 -1 1412
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -217633,7 +217633,7 @@ EndSplineSet
 EndChar
 
 StartChar: aacute.vn
-Encoding: 62057 62057 1413
+Encoding: 62057 -1 1413
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -217983,7 +217983,7 @@ EndSplineSet
 EndChar
 
 StartChar: atilde.vn
-Encoding: 62058 62058 1414
+Encoding: 62058 -1 1414
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -218228,7 +218228,7 @@ EndSplineSet
 EndChar
 
 StartChar: acircumflex.vn
-Encoding: 62059 62059 1415
+Encoding: 62059 -1 1415
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -218489,7 +218489,7 @@ EndSplineSet
 EndChar
 
 StartChar: abreve.vn
-Encoding: 62060 62060 1416
+Encoding: 62060 -1 1416
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -218789,7 +218789,7 @@ EndSplineSet
 EndChar
 
 StartChar: egrave.vn
-Encoding: 62061 62061 1417
+Encoding: 62061 -1 1417
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -219026,7 +219026,7 @@ EndSplineSet
 EndChar
 
 StartChar: eacute.vn
-Encoding: 62062 62062 1418
+Encoding: 62062 -1 1418
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -219283,7 +219283,7 @@ EndSplineSet
 EndChar
 
 StartChar: ecircumflex.vn
-Encoding: 62063 62063 1419
+Encoding: 62063 -1 1419
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -219437,7 +219437,7 @@ EndSplineSet
 EndChar
 
 StartChar: igrave.vn
-Encoding: 62064 62064 1420
+Encoding: 62064 -1 1420
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -219641,7 +219641,7 @@ EndSplineSet
 EndChar
 
 StartChar: iacute.vn
-Encoding: 62065 62065 1421
+Encoding: 62065 -1 1421
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -219878,7 +219878,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ograve.vn
-Encoding: 62066 62066 1422
+Encoding: 62066 -1 1422
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -220160,7 +220160,7 @@ EndSplineSet
 EndChar
 
 StartChar: Oacute.vn
-Encoding: 62067 62067 1423
+Encoding: 62067 -1 1423
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -220443,7 +220443,7 @@ EndSplineSet
 EndChar
 
 StartChar: Otilde.vn
-Encoding: 62068 62068 1424
+Encoding: 62068 -1 1424
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -220657,7 +220657,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ocircumflex.vn
-Encoding: 62069 62069 1425
+Encoding: 62069 -1 1425
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -220844,7 +220844,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ugrave.vn
-Encoding: 62070 62070 1426
+Encoding: 62070 -1 1426
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -221160,7 +221160,7 @@ EndSplineSet
 EndChar
 
 StartChar: Uacute.vn
-Encoding: 62071 62071 1427
+Encoding: 62071 -1 1427
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -221485,7 +221485,7 @@ EndSplineSet
 EndChar
 
 StartChar: Ygrave.vn
-Encoding: 62072 62072 1428
+Encoding: 62072 -1 1428
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -221841,7 +221841,7 @@ EndSplineSet
 EndChar
 
 StartChar: Yacute.vn
-Encoding: 62073 62073 1429
+Encoding: 62073 -1 1429
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -222176,7 +222176,7 @@ EndSplineSet
 EndChar
 
 StartChar: ograve.vn
-Encoding: 62074 62074 1430
+Encoding: 62074 -1 1430
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -222399,7 +222399,7 @@ EndSplineSet
 EndChar
 
 StartChar: oacute.vn
-Encoding: 62075 62075 1431
+Encoding: 62075 -1 1431
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -222655,7 +222655,7 @@ EndSplineSet
 EndChar
 
 StartChar: otilde.vn
-Encoding: 62076 62076 1432
+Encoding: 62076 -1 1432
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -222802,7 +222802,7 @@ EndSplineSet
 EndChar
 
 StartChar: ocircumflex.vn
-Encoding: 62077 62077 1433
+Encoding: 62077 -1 1433
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -222959,7 +222959,7 @@ EndSplineSet
 EndChar
 
 StartChar: ugrave.vn
-Encoding: 62078 62078 1434
+Encoding: 62078 -1 1434
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -223256,7 +223256,7 @@ EndSplineSet
 EndChar
 
 StartChar: uacute.vn
-Encoding: 62079 62079 1435
+Encoding: 62079 -1 1435
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -223594,7 +223594,7 @@ EndSplineSet
 EndChar
 
 StartChar: ygrave.vn
-Encoding: 62080 62080 1436
+Encoding: 62080 -1 1436
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -224143,7 +224143,7 @@ EndSplineSet
 EndChar
 
 StartChar: yacute.vn
-Encoding: 62081 62081 1437
+Encoding: 62081 -1 1437
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -224747,7 +224747,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotbelow
-Encoding: 62082 62082 1438
+Encoding: 62082 -1 1438
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -224822,7 +224822,7 @@ EndSplineSet
 EndChar
 
 StartChar: space_hookabovecomb
-Encoding: 62083 62083 1439
+Encoding: 62083 -1 1439
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -224962,7 +224962,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni033E.cyr
-Encoding: 62108 62108 1440
+Encoding: 62108 -1 1440
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -225069,7 +225069,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0342.cyr
-Encoding: 62109 62109 1441
+Encoding: 62109 -1 1441
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -225170,7 +225170,7 @@ EndSplineSet
 EndChar
 
 StartChar: zvat
-Encoding: 62110 62110 1442
+Encoding: 62110 -1 1442
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -225261,7 +225261,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1FCE.cyr
-Encoding: 62111 62111 1443
+Encoding: 62111 -1 1443
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -225411,7 +225411,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1FCD.cyr
-Encoding: 62112 62112 1444
+Encoding: 62112 -1 1444
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -225514,7 +225514,7 @@ EndSplineSet
 EndChar
 
 StartChar: Azu
-Encoding: 62113 62113 1445
+Encoding: 62113 -1 1445
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -225694,7 +225694,7 @@ EndSplineSet
 EndChar
 
 StartChar: Nashi
-Encoding: 62116 62116 1446
+Encoding: 62116 -1 1446
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -225964,7 +225964,7 @@ EndSplineSet
 EndChar
 
 StartChar: Yi.old
-Encoding: 62118 62118 1447
+Encoding: 62118 -1 1447
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -226107,7 +226107,7 @@ EndSplineSet
 EndChar
 
 StartChar: Chrivi
-Encoding: 62119 62119 1448
+Encoding: 62119 -1 1448
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -226307,7 +226307,7 @@ EndSplineSet
 EndChar
 
 StartChar: Shta
-Encoding: 62120 62120 1449
+Encoding: 62120 -1 1449
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -226525,7 +226525,7 @@ EndSplineSet
 EndChar
 
 StartChar: azu
-Encoding: 62121 62121 1450
+Encoding: 62121 -1 1450
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -226686,7 +226686,7 @@ EndSplineSet
 EndChar
 
 StartChar: nashi
-Encoding: 62124 62124 1451
+Encoding: 62124 -1 1451
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227045,7 +227045,7 @@ EndSplineSet
 EndChar
 
 StartChar: chrivi
-Encoding: 62126 62126 1452
+Encoding: 62126 -1 1452
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227256,7 +227256,7 @@ EndSplineSet
 EndChar
 
 StartChar: shta
-Encoding: 62127 62127 1453
+Encoding: 62127 -1 1453
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227502,7 +227502,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0410_acutecomb
-Encoding: 62560 62560 1454
+Encoding: 62560 -1 1454
 Width: 525
 GlyphClass: 3
 Flags: W
@@ -227513,7 +227513,7 @@ Ligature2: "'dlig' Discretionary Ligatures in Cyrillic lookup 6 subtable" afii10
 EndChar
 
 StartChar: uni0415_acutecomb
-Encoding: 62561 62561 1455
+Encoding: 62561 -1 1455
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227524,7 +227524,7 @@ Refer: 572 1045 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0418_acutecomb
-Encoding: 62562 62562 1456
+Encoding: 62562 -1 1456
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227535,7 +227535,7 @@ Refer: 575 1048 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni041E_acutecomb
-Encoding: 62563 62563 1457
+Encoding: 62563 -1 1457
 Width: 525
 GlyphClass: 3
 Flags: W
@@ -227545,7 +227545,7 @@ Refer: 149 211 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0423_acutecomb
-Encoding: 62564 62564 1458
+Encoding: 62564 -1 1458
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227556,7 +227556,7 @@ Refer: 586 1059 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni042B_acutecomb
-Encoding: 62565 62565 1459
+Encoding: 62565 -1 1459
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227567,7 +227567,7 @@ Refer: 594 1067 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni042D_acutecomb
-Encoding: 62566 62566 1460
+Encoding: 62566 -1 1460
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227578,7 +227578,7 @@ Refer: 596 1069 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni042E_acutecomb
-Encoding: 62567 62567 1461
+Encoding: 62567 -1 1461
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227589,7 +227589,7 @@ Refer: 597 1070 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni042F_acutecomb
-Encoding: 62568 62568 1462
+Encoding: 62568 -1 1462
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227600,7 +227600,7 @@ Refer: 598 1071 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0430_acutecomb
-Encoding: 62570 62570 1463
+Encoding: 62570 -1 1463
 Width: 525
 GlyphClass: 3
 Flags: W
@@ -227610,7 +227610,7 @@ Refer: 163 225 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0435_acutecomb
-Encoding: 62571 62571 1464
+Encoding: 62571 -1 1464
 Width: 525
 GlyphClass: 3
 Flags: W
@@ -227620,7 +227620,7 @@ Refer: 171 233 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0438_acutecomb
-Encoding: 62572 62572 1465
+Encoding: 62572 -1 1465
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227631,7 +227631,7 @@ Refer: 607 1080 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni043E_acutecomb
-Encoding: 62573 62573 1466
+Encoding: 62573 -1 1466
 Width: 525
 GlyphClass: 3
 Flags: W
@@ -227641,7 +227641,7 @@ Refer: 181 243 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0443_acutecomb
-Encoding: 62574 62574 1467
+Encoding: 62574 -1 1467
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227652,7 +227652,7 @@ Refer: 618 1091 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni044B_acutecomb
-Encoding: 62575 62575 1468
+Encoding: 62575 -1 1468
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227663,7 +227663,7 @@ Refer: 626 1099 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni044D_acutecomb
-Encoding: 62576 62576 1469
+Encoding: 62576 -1 1469
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227674,7 +227674,7 @@ Refer: 628 1101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni044E_acutecomb
-Encoding: 62577 62577 1470
+Encoding: 62577 -1 1470
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227685,7 +227685,7 @@ Refer: 629 1102 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni044F_acutecomb
-Encoding: 62578 62578 1471
+Encoding: 62578 -1 1471
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227696,7 +227696,7 @@ Refer: 630 1103 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: acute.cap
-Encoding: 63177 63177 1472
+Encoding: 63177 -1 1472
 Width: 525
 GlyphClass: 4
 Flags: W
@@ -227707,7 +227707,7 @@ Refer: 1510 -1 N 1 0 0 1 0 167 2
 EndChar
 
 StartChar: grave.cap
-Encoding: 63182 63182 1473
+Encoding: 63182 -1 1473
 Width: 525
 GlyphClass: 4
 Flags: W
@@ -227718,7 +227718,7 @@ Refer: 1509 -1 N 1 0 0 1 0 167 2
 EndChar
 
 StartChar: hungarumlaut.cap
-Encoding: 63183 63183 1474
+Encoding: 63183 -1 1474
 Width: 525
 GlyphClass: 4
 Flags: W
@@ -227729,18 +227729,18 @@ Refer: 1512 -1 N 1 0 0 1 0 167 2
 EndChar
 
 StartChar: macron.cap
-Encoding: 63184 63184 1475
+Encoding: 63184 -1 1475
 Width: 525
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-5" 263 619 mark 0
 LayerCount: 2
 Fore
-Refer: 1383 61754 N 1 0 0 1 0 137 2
+Refer: 1383 -1 N 1 0 0 1 0 137 2
 EndChar
 
 StartChar: uniF6D3
-Encoding: 63187 63187 1476
+Encoding: 63187 -1 1476
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227819,7 +227819,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrbreve
-Encoding: 63188 63188 1477
+Encoding: 63188 -1 1477
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -227951,7 +227951,7 @@ EndSplineSet
 EndChar
 
 StartChar: cyrflex
-Encoding: 63189 63189 1478
+Encoding: 63189 -1 1478
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -228040,7 +228040,7 @@ EndSplineSet
 EndChar
 
 StartChar: dblgrave
-Encoding: 63190 63190 1479
+Encoding: 63190 -1 1479
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -228051,7 +228051,7 @@ Refer: 67 96 N 1 0 0 1 -115 0 2
 EndChar
 
 StartChar: threequartersemdash
-Encoding: 63198 63198 1480
+Encoding: 63198 -1 1480
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -228097,7 +228097,7 @@ EndSplineSet
 EndChar
 
 StartChar: dollaroldstyle
-Encoding: 63268 63268 1481
+Encoding: 63268 -1 1481
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -228375,7 +228375,7 @@ EndSplineSet
 EndChar
 
 StartChar: zerooldstyle
-Encoding: 63280 63280 1482
+Encoding: 63280 -1 1482
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -228472,7 +228472,7 @@ EndSplineSet
 EndChar
 
 StartChar: oneoldstyle
-Encoding: 63281 63281 1483
+Encoding: 63281 -1 1483
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -228572,7 +228572,7 @@ EndSplineSet
 EndChar
 
 StartChar: twooldstyle
-Encoding: 63282 63282 1484
+Encoding: 63282 -1 1484
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -228824,7 +228824,7 @@ EndSplineSet
 EndChar
 
 StartChar: threeoldstyle
-Encoding: 63283 63283 1485
+Encoding: 63283 -1 1485
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -229037,7 +229037,7 @@ EndSplineSet
 EndChar
 
 StartChar: fouroldstyle
-Encoding: 63284 63284 1486
+Encoding: 63284 -1 1486
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -229289,7 +229289,7 @@ EndSplineSet
 EndChar
 
 StartChar: fiveoldstyle
-Encoding: 63285 63285 1487
+Encoding: 63285 -1 1487
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -229487,7 +229487,7 @@ EndSplineSet
 EndChar
 
 StartChar: sixoldstyle
-Encoding: 63286 63286 1488
+Encoding: 63286 -1 1488
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -229497,7 +229497,7 @@ Refer: 25 54 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: sevenoldstyle
-Encoding: 63287 63287 1489
+Encoding: 63287 -1 1489
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -229629,7 +229629,7 @@ EndSplineSet
 EndChar
 
 StartChar: eightoldstyle
-Encoding: 63288 63288 1490
+Encoding: 63288 -1 1490
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -229639,7 +229639,7 @@ Refer: 27 56 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: nineoldstyle
-Encoding: 63289 63289 1491
+Encoding: 63289 -1 1491
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -229809,7 +229809,7 @@ EndSplineSet
 EndChar
 
 StartChar: centoldstyle
-Encoding: 63394 63394 1492
+Encoding: 63394 -1 1492
 Width: 525
 GlyphClass: 2
 Flags: W
@@ -233922,7 +233922,7 @@ AnchorPoint: "Anchor-0" 231 782 basemark 0
 AnchorPoint: "Anchor-0" 231 619 mark 0
 LayerCount: 2
 Fore
-Refer: 1473 63182 N 1 0 0 1 0 0 3
+Refer: 1473 -1 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0301.cap
@@ -233935,7 +233935,7 @@ AnchorPoint: "Anchor-0" 256 782 basemark 0
 AnchorPoint: "Anchor-0" 256 619 mark 0
 LayerCount: 2
 Fore
-Refer: 1472 63177 N 1 0 0 1 0 0 3
+Refer: 1472 -1 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0302.cap
@@ -233961,7 +233961,7 @@ AnchorPoint: "Anchor-0" 262 841 basemark 0
 AnchorPoint: "Anchor-0" 262 619 mark 0
 LayerCount: 2
 Fore
-Refer: 1329 61429 N 1 0 0 1 0 0 3
+Refer: 1329 -1 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0304.cap
@@ -233974,7 +233974,7 @@ AnchorPoint: "Anchor-0" 263 752 basemark 0
 AnchorPoint: "Anchor-0" 263 619 mark 0
 LayerCount: 2
 Fore
-Refer: 1475 63184 N 1 0 0 1 0 0 3
+Refer: 1475 -1 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0306.cap
@@ -234039,7 +234039,7 @@ AnchorPoint: "Anchor-0" 204 782 basemark 0
 AnchorPoint: "Anchor-0" 204 619 mark 0
 LayerCount: 2
 Fore
-Refer: 1474 63183 N 1 0 0 1 0 0 3
+Refer: 1474 -1 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni030C.cap
@@ -234065,7 +234065,7 @@ AnchorPoint: "Anchor-0" 382 782 basemark 0
 AnchorPoint: "Anchor-0" 382 619 mark 0
 LayerCount: 2
 Fore
-Refer: 1476 63187 N 1 0 0 1 0 0 3
+Refer: 1476 -1 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni0311.cap
